@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Riva",
+      "last_name": "Copozio",
+      "email": "rcopozio0@loc.gov",
+      "icon": "https://robohash.org/laborevoluptasdoloribus.png?size=30x30&set=set1"
+    },
+    {
+      "id": 2,
+      "first_name": "Tammie",
+      "last_name": "Blakeborough",
+      "email": "tblakeborough1@umn.edu",
+      "icon": "https://robohash.org/harumindebitis.png?size=30x30&set=set1"
+    },
+    {
+      "id": 3,
+      "first_name": "Matthias",
+      "last_name": "Sauter",
+      "email": "msauter2@hc360.com",
+      "icon": "https://robohash.org/suntmolestiaeid.png?size=30x30&set=set1"
+    },
+    {
+      "id": 4,
+      "first_name": "Retha",
+      "last_name": "McGuff",
+      "email": "rmcguff3@bloglines.ua",
+      "icon": "https://robohash.org/corruptilaboresint.png?size=30x30&set=set1"
+    }
+  ]
+}
